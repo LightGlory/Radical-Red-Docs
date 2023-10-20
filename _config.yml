@@ -9,3 +9,5 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: Minima
+title: Radical Red Documents
+description: Hope this works
